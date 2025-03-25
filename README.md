@@ -1,8 +1,6 @@
-![image](https://github.com/user-attachments/assets/7ecaebd8-eb2e-4cd3-86d2-23edc30fbb08)
+![image](https://github.com/user-attachments/assets/627ec2ce-c15e-4574-8a8c-46b101db0724)
 
-
-
-# turkey1-test
+# turkey-test
 
 ## explain this site
 - 20250325 test
