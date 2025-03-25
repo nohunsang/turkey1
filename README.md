@@ -3,8 +3,11 @@
 # turkey-test
 
 ## explain this site
-- 20250325 test
-- turkey main site 
-- 노 헌 상
+- 2025.03.25
+- App distribution test
+- Using turkey main site
+  
+### user name
+- 노헌상
 
 [DEMO💻](https://nohunsang.github.io/turkey1/)
